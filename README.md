@@ -34,7 +34,7 @@ python -u sent_matcher_ball.py --lr 1e-5 --dnet_lr 5e-4 --n_epoch 300 --pos_repe
 stat sent_matchers/ball2_alltest_bertbase_0.9_1e-05_0.0005_5_exp_4_em16_best.pth.tar
 ```
 
-5. Download the edge weight calculator re-implemented based on [EGT2](https://github.com/ZacharyChenpk/EGT2/tree/main):
+5. Download the edge weight calculator $W$ [checkpoint](https://drive.google.com/file/d/1gTajRfdz83oCv0Q5zz5wSMoX_Y6S5AA5/view?usp=drive_link) re-implemented based on [EGT2](https://github.com/ZacharyChenpk/EGT2/tree/main):
 
 ```
 mkdir deberta_tars
