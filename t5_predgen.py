@@ -66,9 +66,6 @@ try:
 except:
     pass
 
-with open('levy_types.txt','r') as f_type:
-    types = list(f_type.readlines())
-types = [t.strip().split('#') for t in types]
 
 type2template = {}
 type2templatelen = {}
