@@ -1,0 +1,461 @@
+Person A arrives to Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> arrives in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A arrives in Location B.	<extra_id_0> arrives to <extra_id_1>
+Location A goes against Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> imposes on <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B imposes on Location A.	<extra_id_0> goes against <extra_id_1>
+Location A centers of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is heart of <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is heart of Location A.	<extra_id_0> centers of <extra_id_1>
+Thing A is wife of Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> marries <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A marries Person B.	<extra_id_0> is wife of <extra_id_1>
+Person A finishes in Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> is team in <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A is team in Organization B.	<extra_id_0> finishes in <extra_id_1>
+Person A signs with Thing B, which entails that Person A <extra_id_0> Thing B.	<extra_id_0> plays for <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Person A plays for Thing B.	<extra_id_0> signs with <extra_id_1>
+Language A is language of state of Location B, which entails that Language A <extra_id_0> Location B.	<extra_id_0> is language of <extra_id_1>
+Language A <extra_id_0> Location B, which entails that Language A is language of Location B.	<extra_id_0> is language of state of <extra_id_1>
+Person A spends in Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> comes to <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A comes to Location B.	<extra_id_0> spends in <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is Location B.	<extra_id_0> is leader of <extra_id_1>
+Person A tells on Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> tells <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B tells Person A.	<extra_id_0> tells on <extra_id_1>
+Location A is of country in Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is of destination in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is of destination in Location A.	<extra_id_0> is of country in <extra_id_1>
+Person A beats Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> faces <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B faces Person A.	<extra_id_0> beats <extra_id_1>
+Person A is eeding__(beat Something beatPerson B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> faces <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B faces Person A.	<extra_id_0> is eeding__(beat Something beat<extra_id_1>
+Thing A squares against Person B, which entails that Person B <extra_id_0> Thing A.	<extra_id_0> plays <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Person B plays Thing A.	<extra_id_0> squares against <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is of country of <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is of country of Location A.	<extra_id_0> is <extra_id_1>
+Person A sees Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> thinks of <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B thinks of Person A.	<extra_id_0> sees <extra_id_1>
+Person A overtakes Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> loses to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B loses to Person A.	<extra_id_0> overtakes <extra_id_1>
+Person A is borne on farm in Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is borne in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is borne in Location B.	<extra_id_0> is borne on farm in <extra_id_1>
+Person A overtakes Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> competes with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B competes with Person A.	<extra_id_0> overtakes <extra_id_1>
+Person A takes to Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> visits <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A visits Location B.	<extra_id_0> takes to <extra_id_1>
+Person A edges Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> loses to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B loses to Person A.	<extra_id_0> edges <extra_id_1>
+Computer A releases update for Software B, which entails that Computer A <extra_id_0> Software B.	<extra_id_0> releases version of <extra_id_1>
+Computer A <extra_id_0> Software B, which entails that Computer A releases version of Software B.	<extra_id_0> releases update for <extra_id_1>
+Location A goes with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> prepares for war with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B prepares for war with Location A.	<extra_id_0> goes with <extra_id_1>
+Location A imports from Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> imports from <extra_id_1>
+Person A explains in rules for Written Work B, which entails that Person A <extra_id_0> Written Work B.	<extra_id_0> describes in rules for <extra_id_1>
+Person A <extra_id_0> Written Work B, which entails that Person A describes in rules for Written Work B.	<extra_id_0> explains in rules for <extra_id_1>
+Military A wars against Military B, which entails that Military B <extra_id_0> Military A.	<extra_id_0> is at war with <extra_id_1>
+Military A <extra_id_0> Military B, which entails that Military B is at war with Military A.	<extra_id_0> wars against <extra_id_1>
+Person A surpasses Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> overtakes <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B overtakes Person A.	<extra_id_0> surpasses <extra_id_1>
+Person A establishes Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> creates <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B creates Person A.	<extra_id_0> establishes <extra_id_1>
+Person A edges Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> has advantage over <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B has advantage over Person A.	<extra_id_0> edges <extra_id_1>
+Person A complains about Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> attacks <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B attacks Person A.	<extra_id_0> complains about <extra_id_1>
+Person A creates Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> creates in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A creates in Location B.	<extra_id_0> creates <extra_id_1>
+Person A has advantage over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is outperform <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is outperform Person A.	<extra_id_0> has advantage over <extra_id_1>
+Person A is in control of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> has <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A has Location B.	<extra_id_0> is in control of <extra_id_1>
+Person A releases for Software B, which entails that Person A <extra_id_0> Software B.	<extra_id_0> announces for <extra_id_1>
+Person A <extra_id_0> Software B, which entails that Person A announces for Software B.	<extra_id_0> releases for <extra_id_1>
+Person A is trounce Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> concedes to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B concedes to Person A.	<extra_id_0> is trounce <extra_id_1>
+Location A exploits Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is colonize <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is colonize Location A.	<extra_id_0> exploits <extra_id_1>
+Person A comes into Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> goes into <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A goes into Location B.	<extra_id_0> comes into <extra_id_1>
+Location A is city of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is used in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is used in Location A.	<extra_id_0> is city of <extra_id_1>
+Person A has edge over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> loses to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B loses to Person A.	<extra_id_0> has edge over <extra_id_1>
+Person A is elected to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> runs against <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B runs against Person A.	<extra_id_0> is elected to <extra_id_1>
+Person A serves chairman of Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is chairman of <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is chairman of Person A.	<extra_id_0> serves chairman of <extra_id_1>
+Person A is Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is friend of <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is friend of Person A.	<extra_id_0> is <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> imports from <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B imports from Location A.	<extra_id_0> is <extra_id_1>
+Person A opens lead over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> defeats <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B defeats Person A.	<extra_id_0> opens lead over <extra_id_1>
+Thing A wins without Person B, which entails that Person B <extra_id_0> Thing A.	<extra_id_0> is player for <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Person B is player for Thing A.	<extra_id_0> wins without <extra_id_1>
+Person A concedes to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> loses to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B loses to Person A.	<extra_id_0> concedes to <extra_id_1>
+Person A is bash Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> beats <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B beats Person A.	<extra_id_0> is bash <extra_id_1>
+Person A says in speech to Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> tells <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A tells Organization B.	<extra_id_0> says in speech to <extra_id_1>
+Person A returns to role of Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> plays <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B plays Person A.	<extra_id_0> returns to role of <extra_id_1>
+Person A is borne in town of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is borne at <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is borne at Location B.	<extra_id_0> is borne in town of <extra_id_1>
+Military A fires into Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> launches into <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A launches into Location B.	<extra_id_0> fires into <extra_id_1>
+Location A signs treaty with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is different from <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is different from Location A.	<extra_id_0> signs treaty with <extra_id_1>
+Location A goes with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> fights war against <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B fights war against Location A.	<extra_id_0> goes with <extra_id_1>
+Thing A interviews Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> asks <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A asks Person B.	<extra_id_0> interviews <extra_id_1>
+Person A is outpace Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> competes with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B competes with Person A.	<extra_id_0> is outpace <extra_id_1>
+Person A is of Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> is <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A is Organization B.	<extra_id_0> is of <extra_id_1>
+Thing A orbits Thing B, which entails that Thing B <extra_id_0> Thing A.	<extra_id_0> is in orbit around <extra_id_1>
+Thing A <extra_id_0> Thing B, which entails that Thing B is in orbit around Thing A.	<extra_id_0> orbits <extra_id_1>
+Location A signs treaty with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> cooperates with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B cooperates with Location A.	<extra_id_0> signs treaty with <extra_id_1>
+Person A sees Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> regards <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B regards Person A.	<extra_id_0> sees <extra_id_1>
+Something invasion 's Location A of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> occupies part of <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is capital of <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is capital of Location A.	<extra_id_0> is <extra_id_1>
+Person A beats Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> edges <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B edges Person A.	<extra_id_0> beats <extra_id_1>
+Location A is hub for Organization B, which entails that Organization B <extra_id_0> Location A.	<extra_id_0> operates to <extra_id_1>
+Location A <extra_id_0> Organization B, which entails that Organization B operates to Location A.	<extra_id_0> is hub for <extra_id_1>
+Person A has advantage over Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> competes with <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A competes with Location B.	<extra_id_0> has advantage over <extra_id_1>
+Person A bests Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> defeats <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B defeats Person A.	<extra_id_0> bests <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is president of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is president of Location B.	<extra_id_0> is leader of <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is lected__(be Something be president of<extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is lected__(be Something be president ofLocation B.	<extra_id_0> is leader of <extra_id_1>
+Person A starts Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> establishes <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B establishes Person A.	<extra_id_0> starts <extra_id_1>
+Person A has meeting with Thing B, which entails that Thing B <extra_id_0> Person A.	<extra_id_0> meets with <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Thing B meets with Person A.	<extra_id_0> has meeting with <extra_id_1>
+Person A has lead over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> trails <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B trails Person A.	<extra_id_0> has lead over <extra_id_1>
+Location A deals with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> faces <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B faces Location A.	<extra_id_0> deals with <extra_id_1>
+Location A retaliates against Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is threat to <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is threat to Location A.	<extra_id_0> retaliates against <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is of destination in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is of destination in Location A.	<extra_id_0> is <extra_id_1>
+Person A trails Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> edges <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B edges Person A.	<extra_id_0> trails <extra_id_1>
+Person A builds into Software B, which entails that Person A <extra_id_0> Software B.	<extra_id_0> works on <extra_id_1>
+Person A <extra_id_0> Software B, which entails that Person A works on Software B.	<extra_id_0> builds into <extra_id_1>
+Location A is in negotiation with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> negotiates with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B negotiates with Location A.	<extra_id_0> is in negotiation with <extra_id_1>
+Person A is partner in Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is ally in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is ally in Location B.	<extra_id_0> is partner in <extra_id_1>
+Person A trails Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> edges <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B edges Person A.	<extra_id_0> trails <extra_id_1>
+Location A goes with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> launches attack against <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B launches attack against Location A.	<extra_id_0> goes with <extra_id_1>
+Person A holds Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> holds in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A holds in Location B.	<extra_id_0> holds <extra_id_1>
+Person A trails Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> has advantage over <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B has advantage over Person A.	<extra_id_0> trails <extra_id_1>
+Person A closes gap with Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> has lead over <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B has lead over Person A.	<extra_id_0> closes gap with <extra_id_1>
+Location A is city of state of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> is city of state of <extra_id_1>
+Person A concedes to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is trounce <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is trounce Person A.	<extra_id_0> concedes to <extra_id_1>
+Location A is capital of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is city in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is city in Location A.	<extra_id_0> is capital of <extra_id_1>
+Organization A releases Software B, which entails that Organization A <extra_id_0> Software B.	<extra_id_0> launches version of <extra_id_1>
+Organization A <extra_id_0> Software B, which entails that Organization A launches version of Software B.	<extra_id_0> releases <extra_id_1>
+Military A is at war with Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> prepares for war with <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A prepares for war with Location B.	<extra_id_0> is at war with <extra_id_1>
+Person A announces at Thing B, which entails that Person A <extra_id_0> Thing B.	<extra_id_0> introduces at <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Person A introduces at Thing B.	<extra_id_0> announces at <extra_id_1>
+Person A is supporter of Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> backs <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B backs Person A.	<extra_id_0> is supporter of <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is of <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is of Location A.	<extra_id_0> is <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> takes control of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A takes control of Location B.	<extra_id_0> is leader of <extra_id_1>
+Person A leads Thing B, which entails that Person A <extra_id_0> Thing B.	<extra_id_0> adds for <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Person A adds for Thing B.	<extra_id_0> leads <extra_id_1>
+Person A is aving__(lead Something leadThing B, which entails that Person A <extra_id_0> Thing B.	<extra_id_0> adds for <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Person A adds for Thing B.	<extra_id_0> is aving__(lead Something lead<extra_id_1>
+Location A is at war with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is enemy of <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is enemy of Location A.	<extra_id_0> is at war with <extra_id_1>
+Person A plans invasion of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> wants <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A wants Location B.	<extra_id_0> plans invasion of <extra_id_1>
+Location A needs from Person B, which entails that Person B <extra_id_0> Location A.	<extra_id_0> provides to <extra_id_1>
+Location A <extra_id_0> Person B, which entails that Person B provides to Location A.	<extra_id_0> needs from <extra_id_1>
+Person A is outperform Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> passes <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B passes Person A.	<extra_id_0> is outperform <extra_id_1>
+Organization A buys by Organization B, which entails that Organization B <extra_id_0> Organization A.	<extra_id_0> purchases <extra_id_1>
+Organization A <extra_id_0> Organization B, which entails that Organization B purchases Organization A.	<extra_id_0> buys by <extra_id_1>
+Person A elects Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is inaugurate <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is inaugurate Location B.	<extra_id_0> elects <extra_id_1>
+Location A crosses into Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> has interest in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B has interest in Location A.	<extra_id_0> crosses into <extra_id_1>
+Person A edges Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> beats <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B beats Person A.	<extra_id_0> edges <extra_id_1>
+Person A marries to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> marries <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B marries Person A.	<extra_id_0> marries to <extra_id_1>
+Person A leads Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> wins in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A wins in Location B.	<extra_id_0> leads <extra_id_1>
+Award A is awarded to Person B, which entails that Person B <extra_id_0> Award A.	<extra_id_0> receives <extra_id_1>
+Award A <extra_id_0> Person B, which entails that Person B receives Award A.	<extra_id_0> is awarded to <extra_id_1>
+Thing A holds lead in Location B, which entails that Thing A <extra_id_0> Location B.	<extra_id_0> leads in <extra_id_1>
+Thing A <extra_id_0> Location B, which entails that Thing A leads in Location B.	<extra_id_0> holds lead in <extra_id_1>
+Location A occupies Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> remains in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B remains in Location A.	<extra_id_0> occupies <extra_id_1>
+Organization A launches version of Software B, which entails that Organization A <extra_id_0> Software B.	<extra_id_0> updates <extra_id_1>
+Organization A <extra_id_0> Software B, which entails that Organization A updates Software B.	<extra_id_0> launches version of <extra_id_1>
+Person A fires at Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> blames <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B blames Person A.	<extra_id_0> fires at <extra_id_1>
+Military A is at war with Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> attacks <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A attacks Location B.	<extra_id_0> is at war with <extra_id_1>
+Military A is at war with Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> is lanning__(attack Something attack<extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A is lanning__(attack Something attackLocation B.	<extra_id_0> is at war with <extra_id_1>
+Person A concedes to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> crushes <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B crushes Person A.	<extra_id_0> concedes to <extra_id_1>
+Person A is outpace Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is trounce <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is trounce Person A.	<extra_id_0> is outpace <extra_id_1>
+Person A takes control of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> controls <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A controls Location B.	<extra_id_0> takes control of <extra_id_1>
+Location A is ally with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> assists <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B assists Location A.	<extra_id_0> is ally with <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> competes with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B competes with Location A.	<extra_id_0> is <extra_id_1>
+Person A defends Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> sides with <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A sides with Location B.	<extra_id_0> defends <extra_id_1>
+Organization A distributes Software B, which entails that Organization A <extra_id_0> Software B.	<extra_id_0> releases version of <extra_id_1>
+Organization A <extra_id_0> Software B, which entails that Organization A releases version of Software B.	<extra_id_0> distributes <extra_id_1>
+Person A holds advantage over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> trails <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B trails Person A.	<extra_id_0> holds advantage over <extra_id_1>
+Person A plans invasion of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> turns to <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A turns to Location B.	<extra_id_0> plans invasion of <extra_id_1>
+Person A is at Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> is professor at <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A is professor at Organization B.	<extra_id_0> is at <extra_id_1>
+Person A is wife of Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> marries <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B marries Person A.	<extra_id_0> is wife of <extra_id_1>
+Person A presses Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> deals with <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A deals with Location B.	<extra_id_0> presses <extra_id_1>
+Thing A is slam Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> accuses <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A accuses Person B.	<extra_id_0> is slam <extra_id_1>
+Person A signs with Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> signs <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B signs Person A.	<extra_id_0> signs with <extra_id_1>
+Person A signs deal with Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> signs <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B signs Person A.	<extra_id_0> signs deal with <extra_id_1>
+Person A is of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is president of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is president of Location B.	<extra_id_0> is of <extra_id_1>
+Person A is of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is lected__(be Something be president of<extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is lected__(be Something be president ofLocation B.	<extra_id_0> is of <extra_id_1>
+Person A explains in structure of Written Work B, which entails that Person A <extra_id_0> Written Work B.	<extra_id_0> describes in structure of <extra_id_1>
+Person A <extra_id_0> Written Work B, which entails that Person A describes in structure of Written Work B.	<extra_id_0> explains in structure of <extra_id_1>
+Person A buys from Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> sells to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B sells to Person A.	<extra_id_0> buys from <extra_id_1>
+Organization A gains in Location B, which entails that Organization A <extra_id_0> Location B.	<extra_id_0> takes control of <extra_id_1>
+Organization A <extra_id_0> Location B, which entails that Organization A takes control of Location B.	<extra_id_0> gains in <extra_id_1>
+Location A destroys Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> conquers <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B conquers Location A.	<extra_id_0> destroys <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> faces <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B faces Location A.	<extra_id_0> is <extra_id_1>
+Location A fights with Person B, which entails that Person B <extra_id_0> Location A.	<extra_id_0> is enemy of <extra_id_1>
+Location A <extra_id_0> Person B, which entails that Person B is enemy of Location A.	<extra_id_0> fights with <extra_id_1>
+Person A trails Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is behind <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is behind Person A.	<extra_id_0> trails <extra_id_1>
+Organization A releases Software B, which entails that Organization A <extra_id_0> Software B.	<extra_id_0> releases version of <extra_id_1>
+Organization A <extra_id_0> Software B, which entails that Organization A releases version of Software B.	<extra_id_0> releases <extra_id_1>
+Location A sides with Person B, which entails that Person B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Person B, which entails that Person B is Location A.	<extra_id_0> sides with <extra_id_1>
+Person A is president of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> represents <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A represents Location B.	<extra_id_0> is president of <extra_id_1>
+Person A scores for Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> adds for <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B adds for Person A.	<extra_id_0> scores for <extra_id_1>
+Person A has edge over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> competes with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B competes with Person A.	<extra_id_0> has edge over <extra_id_1>
+Person A blasts Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> addresses <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B addresses Person A.	<extra_id_0> blasts <extra_id_1>
+Person A waits for Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> needs <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B needs Person A.	<extra_id_0> waits for <extra_id_1>
+Person A is Location B, which entails that Location B <extra_id_0> Person A.	<extra_id_0> is ally of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Location B is ally of Person A.	<extra_id_0> is <extra_id_1>
+Person A removes from Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> withdraws from <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A withdraws from Location B.	<extra_id_0> removes from <extra_id_1>
+Location A is language in Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> is language in <extra_id_1>
+Military A is at war with Location B, which entails that Location B <extra_id_0> Military A.	<extra_id_0> fights war against <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Location B fights war against Military A.	<extra_id_0> is at war with <extra_id_1>
+Something attack 's Military A on Location B, which entails that Location B <extra_id_0> Military A.	<extra_id_0> attacks <extra_id_1>
+Location A aids Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> aids <extra_id_1>
+Person A dominates Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> takes <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A takes Location B.	<extra_id_0> dominates <extra_id_1>
+Person A persuades Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> urges <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B urges Person A.	<extra_id_0> persuades <extra_id_1>
+Location A invades Military B, which entails that Location A <extra_id_0> Military B.	<extra_id_0> occupies <extra_id_1>
+Location A <extra_id_0> Military B, which entails that Location A occupies Military B.	<extra_id_0> invades <extra_id_1>
+Person A compares Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> says about <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B says about Person A.	<extra_id_0> compares <extra_id_1>
+Person A is president of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is of Location B.	<extra_id_0> is president of <extra_id_1>
+Person A adds for Thing B, which entails that Person A <extra_id_0> Thing B.	<extra_id_0> adds point for <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Person A adds point for Thing B.	<extra_id_0> adds for <extra_id_1>
+Location A comes into Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> occupies <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B occupies Location A.	<extra_id_0> comes into <extra_id_1>
+Thing A leads in Location B, which entails that Thing A <extra_id_0> Location B.	<extra_id_0> wins <extra_id_1>
+Thing A <extra_id_0> Location B, which entails that Thing A wins Location B.	<extra_id_0> leads in <extra_id_1>
+Person A trails Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> takes lead over <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B takes lead over Person A.	<extra_id_0> trails <extra_id_1>
+Person A completes sweep of Thing B, which entails that Person A <extra_id_0> Thing B.	<extra_id_0> beats <extra_id_1>
+Person A <extra_id_0> Thing B, which entails that Person A beats Thing B.	<extra_id_0> completes sweep of <extra_id_1>
+Person A develops Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> uses <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A uses Location B.	<extra_id_0> develops <extra_id_1>
+Person A stands with Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> agrees with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B agrees with Person A.	<extra_id_0> stands with <extra_id_1>
+Location A sends into Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> intervenes in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B intervenes in Location A.	<extra_id_0> sends into <extra_id_1>
+Person A takes control of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is leader of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is leader of Location B.	<extra_id_0> takes control of <extra_id_1>
+Something war 's Person A against Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> fights <extra_id_1>
+Thing A acquires Thing B, which entails that Thing B <extra_id_0> Thing A.	<extra_id_0> buys <extra_id_1>
+Thing A <extra_id_0> Thing B, which entails that Thing B buys Thing A.	<extra_id_0> acquires <extra_id_1>
+Person A edges Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> trails <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B trails Person A.	<extra_id_0> edges <extra_id_1>
+Person A is assassinated in Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is murdered in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is murdered in Location B.	<extra_id_0> is assassinated in <extra_id_1>
+Location A is heart of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> is heart of <extra_id_1>
+Person A holds advantage over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> has lead over <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B has lead over Person A.	<extra_id_0> holds advantage over <extra_id_1>
+Thing A plays against Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> faces <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A faces Person B.	<extra_id_0> plays against <extra_id_1>
+Organization A launches version of Software B, which entails that Organization A <extra_id_0> Software B.	<extra_id_0> releases <extra_id_1>
+Organization A <extra_id_0> Software B, which entails that Organization A releases Software B.	<extra_id_0> launches version of <extra_id_1>
+Person A crushes Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> goes after <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B goes after Person A.	<extra_id_0> crushes <extra_id_1>
+Person A is bash Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> defeats <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B defeats Person A.	<extra_id_0> is bash <extra_id_1>
+Location A is with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> has agreement with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B has agreement with Location A.	<extra_id_0> is with <extra_id_1>
+Person A concedes to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> has lead over <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B has lead over Person A.	<extra_id_0> concedes to <extra_id_1>
+Thing A wins to Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> bests <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A bests Person B.	<extra_id_0> wins to <extra_id_1>
+Person A relieves Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> replaces <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B replaces Person A.	<extra_id_0> relieves <extra_id_1>
+Location A takes control of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> occupies <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B occupies Location A.	<extra_id_0> takes control of <extra_id_1>
+Person A is outpace Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> competes with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B competes with Person A.	<extra_id_0> is outpace <extra_id_1>
+Organization A distributes Software B, which entails that Organization A <extra_id_0> Software B.	<extra_id_0> releases version of <extra_id_1>
+Organization A <extra_id_0> Software B, which entails that Organization A releases version of Software B.	<extra_id_0> distributes <extra_id_1>
+Person A unveils at Time B, which entails that Person A <extra_id_0> Time B.	<extra_id_0> reveals at <extra_id_1>
+Person A <extra_id_0> Time B, which entails that Person A reveals at Time B.	<extra_id_0> unveils at <extra_id_1>
+Person A has advantage over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> trails <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B trails Person A.	<extra_id_0> has advantage over <extra_id_1>
+Person A is ontinuing__(work Something work withPerson B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> works with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B works with Person A.	<extra_id_0> is ontinuing__(work Something work with<extra_id_1>
+Person A adds to Software B, which entails that Person A <extra_id_0> Software B.	<extra_id_0> develops <extra_id_1>
+Person A <extra_id_0> Software B, which entails that Person A develops Software B.	<extra_id_0> adds to <extra_id_1>
+Person A stands with Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is ally with <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is ally with Person A.	<extra_id_0> stands with <extra_id_1>
+Person A helps Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> gives to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B gives to Person A.	<extra_id_0> helps <extra_id_1>
+Thing A is engaged to Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> marries <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A marries Person B.	<extra_id_0> is engaged to <extra_id_1>
+Location A is hostile to Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is threat to <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is threat to Location A.	<extra_id_0> is hostile to <extra_id_1>
+Person A builds Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> finds <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A finds Organization B.	<extra_id_0> builds <extra_id_1>
+Location A plans invasion of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> enters <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B enters Location A.	<extra_id_0> plans invasion of <extra_id_1>
+Location A goes with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> fights with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B fights with Location A.	<extra_id_0> goes with <extra_id_1>
+Military A launches into Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> invades <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A invades Location B.	<extra_id_0> launches into <extra_id_1>
+Person A grants to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> gives to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B gives to Person A.	<extra_id_0> grants to <extra_id_1>
+Military A launches invasion of Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> launches into <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A launches into Location B.	<extra_id_0> launches invasion of <extra_id_1>
+Location A is in Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> is in <extra_id_1>
+Thing A wins in Location B, which entails that Thing A <extra_id_0> Location B.	<extra_id_0> wins <extra_id_1>
+Thing A <extra_id_0> Location B, which entails that Thing A wins Location B.	<extra_id_0> wins in <extra_id_1>
+Location A conquers Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> occupies <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B occupies Location A.	<extra_id_0> conquers <extra_id_1>
+Location A launches invasion of Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> goes with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B goes with Location A.	<extra_id_0> launches invasion of <extra_id_1>
+Location A is at war with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is Location A.	<extra_id_0> is at war with <extra_id_1>
+Thing A acquires Organization B, which entails that Organization B <extra_id_0> Thing A.	<extra_id_0> is subsidiary of <extra_id_1>
+Thing A <extra_id_0> Organization B, which entails that Organization B is subsidiary of Thing A.	<extra_id_0> acquires <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is president of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is president of Location B.	<extra_id_0> is leader of <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is lected__(be Something be president of<extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is lected__(be Something be president ofLocation B.	<extra_id_0> is leader of <extra_id_1>
+Person A is brother of Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is Person A.	<extra_id_0> is brother of <extra_id_1>
+Location A is threat to Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is hostile to <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is hostile to Location A.	<extra_id_0> is threat to <extra_id_1>
+Person A blasts Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> hammers <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B hammers Person A.	<extra_id_0> blasts <extra_id_1>
+Person A concedes to Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> gives to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B gives to Person A.	<extra_id_0> concedes to <extra_id_1>
+Something wag 's Location A against Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> attacks <extra_id_1>
+Something race 's Person A against Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> beats <extra_id_1>
+Person A crushes Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> is trounce <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B is trounce Person A.	<extra_id_0> crushes <extra_id_1>
+Person A introduces to Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> establishes in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A establishes in Location B.	<extra_id_0> introduces to <extra_id_1>
+Location A is Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is of airport in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is of airport in Location A.	<extra_id_0> is <extra_id_1>
+Person A surpasses Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> trails <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B trails Person A.	<extra_id_0> surpasses <extra_id_1>
+Military A fights war with Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> is <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A is Location B.	<extra_id_0> fights war with <extra_id_1>
+Person A has advantage over Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> loses to <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B loses to Person A.	<extra_id_0> has advantage over <extra_id_1>
+Thing A completes acquisition of Organization B, which entails that Thing A <extra_id_0> Organization B.	<extra_id_0> buys <extra_id_1>
+Thing A <extra_id_0> Organization B, which entails that Thing A buys Organization B.	<extra_id_0> completes acquisition of <extra_id_1>
+Thing A completes acquisition of Organization B, which entails that Thing A <extra_id_0> Organization B.	<extra_id_0> is grees__(buy Something buy<extra_id_1>
+Thing A <extra_id_0> Organization B, which entails that Thing A is grees__(buy Something buyOrganization B.	<extra_id_0> completes acquisition of <extra_id_1>
+Military A has control of Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> has influence in <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A has influence in Location B.	<extra_id_0> has control of <extra_id_1>
+Person A announces Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> launches <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A launches Organization B.	<extra_id_0> announces <extra_id_1>
+Person A blasts Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> hammers <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B hammers Person A.	<extra_id_0> blasts <extra_id_1>
+Location A is of country in Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is located in <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is located in Location A.	<extra_id_0> is of country in <extra_id_1>
+Military A launches invasion of Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> fights in <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A fights in Location B.	<extra_id_0> launches invasion of <extra_id_1>
+Location A seizes from Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is cede to <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is cede to Location A.	<extra_id_0> seizes from <extra_id_1>
+Thing A confronts Person B, which entails that Thing A <extra_id_0> Person B.	<extra_id_0> asks <extra_id_1>
+Thing A <extra_id_0> Person B, which entails that Thing A asks Person B.	<extra_id_0> confronts <extra_id_1>
+Location A is ceded to Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> belongs to <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B belongs to Location A.	<extra_id_0> is ceded to <extra_id_1>
+Military A declares war against Location B, which entails that Military A <extra_id_0> Location B.	<extra_id_0> fights against <extra_id_1>
+Military A <extra_id_0> Location B, which entails that Military A fights against Location B.	<extra_id_0> declares war against <extra_id_1>
+Location A has border with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> is border <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B is border Location A.	<extra_id_0> has border with <extra_id_1>
+Organization A announces availability of Computer B, which entails that Organization A <extra_id_0> Computer B.	<extra_id_0> announces release of <extra_id_1>
+Organization A <extra_id_0> Computer B, which entails that Organization A announces release of Computer B.	<extra_id_0> announces availability of <extra_id_1>
+Person A is leader of Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> is of <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A is of Location B.	<extra_id_0> is leader of <extra_id_1>
+Person A fears Organization B, which entails that Person A <extra_id_0> Organization B.	<extra_id_0> is afraid of <extra_id_1>
+Person A <extra_id_0> Organization B, which entails that Person A is afraid of Organization B.	<extra_id_0> fears <extra_id_1>
+Location A signs treaty with Location B, which entails that Location B <extra_id_0> Location A.	<extra_id_0> has agreement with <extra_id_1>
+Location A <extra_id_0> Location B, which entails that Location B has agreement with Location A.	<extra_id_0> signs treaty with <extra_id_1>
+Person A is outpace Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> blows <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B blows Person A.	<extra_id_0> is outpace <extra_id_1>
+Person A has interest in Location B, which entails that Person A <extra_id_0> Location B.	<extra_id_0> wants in <extra_id_1>
+Person A <extra_id_0> Location B, which entails that Person A wants in Location B.	<extra_id_0> has interest in <extra_id_1>
+Person A has point for Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> scores for <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B scores for Person A.	<extra_id_0> has point for <extra_id_1>
+Person A trumps Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> beats <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B beats Person A.	<extra_id_0> trumps <extra_id_1>
+Person A stops Person B, which entails that Person B <extra_id_0> Person A.	<extra_id_0> forces <extra_id_1>
+Person A <extra_id_0> Person B, which entails that Person B forces Person A.	<extra_id_0> stops <extra_id_1>

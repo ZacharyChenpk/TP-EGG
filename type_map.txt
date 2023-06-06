@@ -1,0 +1,47 @@
+food	Food
+broadcast_program	Broadcast Program
+internet	Internet
+military	Military
+transportation	Transportation
+chemistry	Chemistry
+government_agency	Government Agency
+building	Building
+computer	Computer
+astral_body	Astral Body
+product	Product
+transit	Transit
+finance	Finance
+god	God
+livingthing	Livingthing
+music	Music
+law	Law
+geography	Geography
+person	Person
+disease	Disease
+government	Government
+education	Education
+broadcast	Broadcast
+metropolitan_transit	Metropolitan Transit
+visual_art	Visual Art
+time	Time
+park	Park
+people	People
+living_thing	Living Thing
+body_part	Body Part
+thing	Thing
+religion	Religion
+art	Art
+written_work	Written Work
+event	Event
+organization	Organization
+software	Software
+title	Title
+broadcast_network	Broadcast Network
+award	Award
+medicine	Medicine
+location	Location
+play	Play
+language	Language
+game	Game
+biology	Biology
+rail	Rail
