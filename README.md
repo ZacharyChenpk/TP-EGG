@@ -1,5 +1,5 @@
 # TP-EGG
-The repository is going to contain the source code of the ACL 2023 long paper "From the One, Judge of the Whole: Typed Entailment Graph Construction with Predicate Generation"
+The repository contains the source code of the ACL 2023 long paper "From the One, Judge of the Whole: Typed Entailment Graph Construction with Predicate Generation". [Arxiv](https://arxiv.org/abs/2306.04170)
 
 ## How to run
 1. Download the evaluation [repository](https://github.com/mjhosseini/entgraph_eval.git) and the dataset for later usage:
