@@ -6,14 +6,16 @@ The repository contains the source code of the ACL 2023 long paper "From the One
 
 ```
 git clone https://github.com/mjhosseini/entgraph_eval.git
+cd TP-EGG/
 wget https://dl.dropboxusercontent.com/s/j7sgqhp8a27qgcf/gfiles.zip
 unzip gfiles.zip
 rm gfiles.zip
 mv gfiles/ .. 
 ls ../gfiles/ent/
+ls ../entgraph_eval/
 ```
 
-2. Run the training script to get the predicate generator $G$ based on T5-large, or directly download the checkpoint (waiting for upload...): 
+2. Run the training script to get the predicate generator $G$ based on T5-large, or directly download the [checkpoint](https://drive.google.com/file/d/1eMN2Bl0JnCd2Zs6CNE-l7AkKt6Ro6w8T/view?usp=sharing): 
 
 ```
 python t5_train.py --t5_size large --lr 1e-3
@@ -26,7 +28,7 @@ stat t5_tuned_large_0.001_reannofix.pth
 python t5_predgen.py --beam 50 --keep 5000 --filter_level 0 --t5_size large --model_path t5_tuned_large_0.001_reannofix.pth
 ```
 
-4. Run the training script to get the edge selictor $M$ based on BERT, or directly download the checkpoint (waiting for upload...):
+4. Run the training script to get the edge selictor $M$ based on BERT, or directly download the [checkpoint](https://drive.google.com/file/d/1RPD_vN9Rl3_J4teta2kij-obcy19vBHE/view?usp=drive_link):
 
 ```
 mkdir sent_matchers
@@ -49,4 +51,19 @@ python sent_matcher_modifier_ball_for_t5predgen.py
 ls ../gfiles/typedEntGrDir_sent_matcher_t5gen_b50k5000fil02nei_large_tunedlarge0.001reannofix_ball2m_1e-5_5e-4_5_exp_4_em16_f2e7_mNone_ty2/
 ```
 
-and we will upload the final graphs later.
+And we upload the final [graphs](https://huggingface.co/zacharyc/TPEGG_LH/tree/main) for future research. After downloading corresponding files, get the graphs by:
+
+```
+cat TPEGG_LH_split.z* > graph.zip
+unzip graph.zip
+```
+
+7. Copy the relaxed evaluation script to the evaluation repo, and get the evaluation results:
+
+```
+cp eval_with_sent.py ../entgraph_eval/evaluation/
+cd ../entgraph_eval/evaluation/
+python eval.py --gpath typedEntGrDir_sent_matcher_t5gen_b50k5000fil02nei_large_tunedlarge0.001reannofix_ball2m_1e-5_5e-4_5_exp_4_em16_f2e7_mNone_ty2 --test_reanno --sim_suffix _sim.txt --method TPEGG_LH_reannofix --CCG 1 --typed 1 --supervised 0 --oneFeat 1 --useSims 0 --featIdx 0 --exactType --backupAvg --write
+cd ../../TP-EGG
+python eval_curvefill.py
+```
